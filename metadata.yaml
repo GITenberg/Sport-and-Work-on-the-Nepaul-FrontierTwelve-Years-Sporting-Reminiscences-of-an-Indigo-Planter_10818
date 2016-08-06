@@ -1,0 +1,29 @@
+_repo: Sport-and-Work-on-the-Nepaul-FrontierTwelve-Years-Sporting-Reminiscences-of-an-Indigo-Planter_10818
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Inglis, James
+    alias: Maori
+    birthdate: 1845
+    deathdate: 1908
+    gutenberg_agent_id: '3699'
+    url: http://www.gutenberg.org/2009/agents/3699
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10818'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hunting -- India -- Bihar'
+- !lcc 'SK'
+- !lcsh 'Hunting -- Nepal'
+- !lcsh 'Inglis, James, 1845-1908'
+- GITenberg
+title: 'Sport and Work on the Nepaul Frontier
+
+  Twelve Years Sporting Reminiscences of an Indigo Planter'
+url: http://www.gutenberg.org/ebooks/10818
